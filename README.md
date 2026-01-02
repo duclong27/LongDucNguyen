@@ -8,3 +8,8 @@ Passionate about building scalable backend systems and clean, maintainable code.
   <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" />
 </a>
 
+
+
+<a href="longpubg27@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+</a>
