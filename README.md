@@ -1,6 +1,7 @@
 # LongDucNguyen
 Passionate about building scalable backend systems and clean, maintainable code. Experienced in RESTful APIs, system integration, and database design. Always learning, always improving 🚀
-<p align="center">
-  <a href="(https://www.facebook.com/uclong.632376/)">📘</a>
+ô
+<a href="https://www.facebook.com/uclong.632376/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" />
+</a>
 
-</p>
